@@ -1,0 +1,6 @@
+namespace: lvps
+name: ldap_389ds_replication
+version: 1.0.1
+readme: README.md
+authors: lvps
+
